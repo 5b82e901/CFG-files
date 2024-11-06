@@ -1,0 +1,105 @@
+{
+  "WPFInstall": [
+    "WPFInstallobs",
+    "WPFInstallchatterino",
+    "WPFInstallsteam",
+    "WPFInstallopenshell",
+    "WPFInstallmsedgeredirect",
+    "WPFInstallmsiafterburner",
+    "WPFInstallfirefox",
+    "WPFInstallterminal",
+    "WPFInstallpostman",
+    "WPFInstalldiscord",
+    "WPFInstallfoobar",
+    "WPFInstallsamsungmagician",
+    "WPFInstalleaapp",
+    "WPFInstall7zip"
+  ],
+  "Install": [
+    {
+      "winget": "OBSProject.OBSStudio",
+      "choco": "obs-studio"
+    },
+    {
+      "winget": "ChatterinoTeam.Chatterino",
+      "choco": "chatterino"
+    },
+    {
+      "winget": "Valve.Steam",
+      "choco": "steam-client"
+    },
+    {
+      "winget": "Open-Shell.Open-Shell-Menu",
+      "choco": "open-shell"
+    },
+    {
+      "winget": "rcmaehl.MSEdgeRedirect",
+      "choco": "msedgeredirect"
+    },
+    {
+      "winget": "Guru3D.Afterburner",
+      "choco": "msiafterburner"
+    },
+    {
+      "winget": "Mozilla.Firefox",
+      "choco": "firefox"
+    },
+    {
+      "winget": "Microsoft.WindowsTerminal",
+      "choco": "microsoft-windows-terminal"
+    },
+    {
+      "winget": "Postman.Postman",
+      "choco": "postman"
+    },
+    {
+      "winget": "Discord.Discord",
+      "choco": "discord"
+    },
+    {
+      "winget": "PeterPawlowski.foobar2000",
+      "choco": "foobar2000"
+    },
+    {
+      "winget": "Samsung.SamsungMagician",
+      "choco": "samsung-magician"
+    },
+    {
+      "winget": "ElectronicArts.EADesktop",
+      "choco": "ea-app"
+    },
+    {
+      "winget": "7zip.7zip",
+      "choco": "7zip"
+    }
+  ],
+  "WPFFeature": [
+    "WPFFeatureDisableLegacyRecovery",
+    "WPFFeatureDisableSearchSuggestions",
+    "WPFFeaturesdotnet"
+  ],
+  "WPFTweaks": [
+    "WPFTweaksHiber",
+    "WPFTweaksDebloatAdobe",
+    "WPFTweaksHome",
+    "WPFTweaksRightClickMenu",
+    "WPFTweaksRemoveCopilot",
+    "WPFTweaksBlockAdobeNet",
+    "WPFTweaksServices",
+    "WPFTweaksPowershell7",
+    "WPFTweaksWifi",
+    "WPFTweaksPowershell7Tele",
+    "WPFTweaksDisableLMS1",
+    "WPFTweaksRemoveOnedrive",
+    "WPFTweaksDisableFSO",
+    "WPFTweaksLoc",
+    "WPFTweaksTele",
+    "WPFTweaksTeredo",
+    "WPFTweaksDisableNotifications",
+    "WPFTweaksDVR",
+    "WPFTweaksDisplay",
+    "WPFTweaksStorage",
+    "WPFTweaksConsumerFeatures",
+    "WPFTweaksAH"
+  ]
+}
